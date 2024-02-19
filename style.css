@@ -1,0 +1,27 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+  
+  body {
+    background-image: url("./assest/img/bg_1.jpg.webp");
+    background-color: #cccccc;
+    height: 393px;
+    background-position: 50% 0px;
+   }
+   .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
+    color: #fff;
+    border: 1px solid #fd4c82;
+    padding-top: .8rem;
+    padding-bottom: .8rem;
+    padding-left: 18px;
+    padding-right: 18px;
+    background: #fd4c82;
+    margin-top: .5rem;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    border-radius: 2px;
+   }
